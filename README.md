@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aimanAlii
-- 👀 I’m interested in Front-End Development
-- 🌱Expert JavaScript Developer including Tools and technologies.
+- 👀 Web Developer for over 5yrs.
+- 🌱Expert JavaScript Developer including tools and technologies.
 - 📫 You can reach me at my email: aimanzahid828@gmail.com
 
 <!---
