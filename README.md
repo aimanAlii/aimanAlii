@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Custom Dashboard Application](https://vercel.com/aimanzahid828-gmailcoms-projects/nextjs-dashboard-b4q5)
 
-- 🌱 I’m currently learning **MERN Stack, Nest.js, Postgres**
+- 🌱 I’m currently learning **MERN Stack, Nest.js, Postgresql**
 
 - 👨‍💻 All of my projects are available at [https://aimanalii.github.io/](https://aimanalii.github.io/)
 
